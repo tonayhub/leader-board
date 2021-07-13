@@ -38,7 +38,8 @@ nav a{
     
 }
 .fa-lightbulb:hover{
-    color: rgb(250, 246, 8);
+    color: yellow;
+    transition:1s ease-out ;
       
 }
 .icon{
@@ -175,6 +176,19 @@ hr{
     background-color: rgb(240, 181, 181);
 }
 
+
+footer{
+    text-align: center;
+    background-color:seagreen;
+    color: white;
+    align-content: center;
+    margin-top: 16px;  
+    
+}
+#copy-name{
+    color: white;
+    padding-left: 15px;
+}
 
 /* Media Queries */
 
