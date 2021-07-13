@@ -134,6 +134,7 @@ nav {
     background-color: seagreen;
     color: white;
     padding: 10px 0px;
+    
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -143,6 +144,7 @@ nav a{
     color: white;
     padding-left: 10px;
     padding-right: 10px;
+    
 
 }
 .icon img{
@@ -178,6 +180,7 @@ nav a{
     .container{
         padding: 0px;
     }
+    
     
 }
 /* Tablet Devices */
