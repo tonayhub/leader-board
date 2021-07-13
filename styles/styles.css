@@ -99,6 +99,7 @@ hr{
     padding: 18px;
     border-radius: 8px;
     filter: drop-shadow(0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05));
+    margin-bottom: 10px;
 }
 
 
@@ -170,6 +171,12 @@ nav a{
     }
     .player, .blog{
         flex-direction: column;
+    }
+    .course{
+        margin: 10px;
+      }
+    .container{
+        padding: 0px;
     }
     
 }
